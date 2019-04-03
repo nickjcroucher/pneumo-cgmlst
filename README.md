@@ -6,4 +6,4 @@ The scheme has been formatted similar to Ridom so that releases should be compat
 
 ## Usage
 
-Each `.fasta` file represents a gene (e.g. `CLS00147.fasta` contains known alleles of `CLS00147`).  Each allele is numbered sequentially.
+Each `.fasta` file in `loci/` represents a gene (e.g. `CLS00147.fasta` contains known alleles of `CLS00147`).  Each allele is numbered sequentially.
